@@ -1,0 +1,12 @@
+Anotações sobre o curso de Git/GitHub. 
+
+LinkedIn: https://linkedin.com/in/falvojr
+
+GitHub: https://github.com/falvojr
+
+Noções de https://www.markdownguide.org/basic-syntax/
+
+O que é README?
+
+* O README é um arquivo com extensão .md, ou seja, ele é escrito em Markdown 
+que é uma linguagem de marcação utilizada para converter o texto em um HTML válido. 
